@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291358048458",
+    "project_id": "smart-trash-9bb31",
+    "storage_bucket": "smart-trash-9bb31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291358048458:android:b94b5c8574343402a83433",
+        "android_client_info": {
+          "package_name": "com.example.midterm_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6KXf5QcYEnysT8IRlQ1wm7KdScPcNqaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
